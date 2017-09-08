@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KIDS</string>
+    <string name="arabic_alphabet_only">arabic alphabet</string>
+    <string name="arabic_alphabet_with_words">arabic alphabet with words</string>
+    <string name="math">Math</string>
+    <string name="english">english</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#0891a9</color>
+    <color name="colorPrimary">#03d7f7</color>
+    <color name="colorAccent">#08e99a</color>
+    <color name="blueish">#c294d7e1</color>
+
+    <!--for background of list item-->
+    <color name="tan_background">#5eb7bc</color>
+    <color name="buttons_colors">#e708d1</color>
+</resources>

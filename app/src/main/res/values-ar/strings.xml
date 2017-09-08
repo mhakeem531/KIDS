@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KIDS</string>
+    <string name="arabic_alphabet_only">عربي حروف بس</string>
+    <string name="arabic_alphabet_with_words">عربي حروف وكلمات</string>
+    <string name="math">حساب</string>
+    <string name="english">انجليزي</string>
+</resources>
